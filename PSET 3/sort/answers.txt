@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: Sorted an ordered list the fastest.
+
+sort2 uses: Merge Sort
+
+How do you know?: It sorted random50000.txt the fastest.
+
+sort3 uses: Selection Sort
+
+How do you know?: Process of elimination.
